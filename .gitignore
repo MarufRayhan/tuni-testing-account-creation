@@ -1,2 +1,4 @@
 *.txt
-.in, .out ja .pyc
+*.pyc
+*.out
+*.in
